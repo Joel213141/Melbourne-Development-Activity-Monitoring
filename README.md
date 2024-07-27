@@ -11,7 +11,7 @@ This repository contains an analytical project focused on understanding the deve
 ## Visualization
 Below is an example of a dendrogram created as part of our Hierarchical Clustering analysis. This visualization helps in understanding the linkage between various development projects.
 
-![Dendrogram](output/figures/dendrogram.png)
+![Dendrogram](outputs/figures/dendrogram.png)
 
 ## Repository Structure
 - `output/figures`: Contains all generated figures and plots including the dendrogram shown above.
