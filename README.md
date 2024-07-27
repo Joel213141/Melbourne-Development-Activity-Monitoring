@@ -20,4 +20,4 @@ Below is an example of a dendrogram created as part of our Hierarchical Clusteri
 
 ## Running the Code
 To run the analysis scripts, ensure you have Python installed along with the necessary libraries:
-
+Navigate to the `src` directory and run the Python scripts or Jupyter notebooks.
